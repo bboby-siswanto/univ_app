@@ -1,0 +1,1 @@
+<h2 class="pt-5 text-center">Event closed!!</h2>

@@ -1,0 +1,1 @@
+<?=modules::run('student/ofse_registration', $params)?>
